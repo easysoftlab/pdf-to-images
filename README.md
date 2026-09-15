@@ -50,14 +50,14 @@ At just $0.99 — far less than half a cup of coffee — this app is a truly cap
 Convert your PDFs to images instantly in your browser — no installation, no registration required.
 
  
-**Link:** [https://www.easysoftlab.com/pdf-to-pictures/](https://www.easysoftlab.com/pdf-to-pictures/)
+ [![Open Web Version](https://img.shields.io/badge/Open_Web_Version-2563eb?style=for-the-badge&logo=web&logoColor=white)](https://pdf-to-images-tool.pages.dev/)
 
 #### 🖥️ Microsoft Store Desktop App
 Get the full-featured desktop version from Microsoft Store for a native Windows experience with batch processing, custom save paths and full offline support.
-
+[![Get it from Microsoft](https://get.microsoft.com/images/en-us%20dark.svg)](https://apps.microsoft.com/detail/9pfsnb3d24hh)
  
 
-> Replace the link above with your official Microsoft Store product URL.
+ 
 
 ### 🔒 Privacy First
 All conversion happens locally on your device. **No PDF files, images or personal data are uploaded to any external server.** No network connection is required, and your original documents are never modified.
@@ -71,7 +71,7 @@ All conversion happens locally on your device. **No PDF files, images or persona
 - Generate high-quality images for archiving, sharing and printing
 
 ### Powered by
-Easy Soft Creator
+ https://www.easysoftlab.com/
 
 ---
 
@@ -116,13 +116,12 @@ Für nur 0,99 $ – weit weniger als ein halber Kaffee – ist diese App ein lei
 #### 🌐 Kostenlose Online-Web-Version
 Wandeln Sie Ihre PDFs sofort im Browser in Bilder um – keine Installation, keine Registrierung erforderlich.
  
-
-**Link:** [https://www.easysoftlab.com/pdf-to-pictures/](https://www.easysoftlab.com/pdf-to-pictures/)
-
-#### 🖥️ Microsoft Store Desktop-App
-Holen Sie sich die voll funktionsfähige Desktop-Version aus dem Microsoft Store für eine native Windows-Oberfläche mit Stapelverarbeitung, benutzerdefinierten Speicherpfaden und vollständiger Offline-Unterstützung.
  
-> Ersetzen Sie den Link oben durch Ihre offizielle Microsoft Store Produkt-URL.
+ [![Open Web Version](https://img.shields.io/badge/Open_Web_Version-2563eb?style=for-the-badge&logo=web&logoColor=white)](https://pdf-to-images-tool.pages.dev/)
+
+#### 🖥️ Microsoft Store Desktop App
+ 
+[![Get it from Microsoft](https://get.microsoft.com/images/en-us%20dark.svg)](https://apps.microsoft.com/detail/9pfsnb3d24hh)
 
 ### 🔒 Datenschutz an erster Stelle
 Alle Umwandlungen laufen lokal auf Ihrem Gerät ab. **Keine PDF-Dateien, Bilder oder personenbezogenen Daten werden an externe Server gesendet.** Keine Netzwerkverbindung ist erforderlich und Ihre Originaldokumente werden niemals verändert.
@@ -136,4 +135,4 @@ Alle Umwandlungen laufen lokal auf Ihrem Gerät ab. **Keine PDF-Dateien, Bilder 
 - Hochwertige Bilder für Archivierung, Freigabe und Druck erstellen
 
 ### Entwickelt von
-Easy Soft Creator
+ https://www.easysoftlab.com/
